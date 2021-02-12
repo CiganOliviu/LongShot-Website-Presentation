@@ -6,8 +6,10 @@ This app represents the presentation website for a band called longshot.
 
 ## Backend
 
+![Website main page](longshot_documentation/picture_5.png)
+
 This app contains different subsystems such as a newsletter, an administration
-board, queries from the database for tours and news. The database behind the system is mysql.
+board and others. The database behind the system is mysql.
 
 ##### Newsletter
 
