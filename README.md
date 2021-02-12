@@ -56,3 +56,12 @@ tours and news. Only after that is listed in the UI.
 ##### How does the data for tours looks in the UI
 
 ![Website main page](longshot_documentation/picture_9.png)
+
+## Frontend
+
+The website is 100% responsive, it's easy to use with a good UX. The wallpaper is changing on every 
+section, so I alternate the video wallpaper with the image wallpaper. Along the app I tried to use 
+good contrasts between the text and the background. There are also some basic animations 
+as well realised with SASS, Javascript and Jquery.
+
+![Website main page](longshot_documentation/picture_10.png) ![Website main page](longshot_documentation/picture_11.png)
