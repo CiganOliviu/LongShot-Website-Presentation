@@ -65,3 +65,35 @@ good contrasts between the text and the background. There are also some basic an
 as well realised with SASS, Javascript and Jquery.
 
 ![Website main page](longshot_documentation/picture_10.png) ![Website main page](longshot_documentation/picture_11.png)
+
+## Technologies
+
+The technologies I've used for this project are HTML5, SASS, Bootstrap, FontAwesome, Javascript, JQuery,
+PHP Laravel and mysql database.
+
+## Future Development
+
+A list with possible and super helpful updates that the system may need:
+
+* I would like to order tickets directly from this platform, without redirecting me to any other webapp
+where the purchase is realised.
+
+* As an administrator it would be nice to see all the databases with their contents without having to go
+to mysql directly in the admin board. This admin board would be very similar with the one from django, this is 
+super helpful when administrating a lot of databases and tables like in cigan_enterprize (...). 
+
+## Requirements
+
+* You should have xampp, php (7.4.3 or bigger), composer and laravel (8.15.0 or bigger) in order to run the app.
+
+## Setup
+
+* Download the repo
+* Open the folder structure of the app, open a cmd or terminal and type
+```
+    php artisan serve
+```
+
+The server will automatically run.
+
+* Enjoy
