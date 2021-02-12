@@ -40,3 +40,7 @@ using predefined forms.
 ##### How does the form for adding news looks
 
 ![Website main page](longshot_documentation/picture_6.png)
+
+##### How does the form for adding concerts looks
+
+![Website main page](longshot_documentation/picture_7.png)
