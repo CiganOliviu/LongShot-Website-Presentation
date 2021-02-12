@@ -37,7 +37,7 @@
         <div class="container-fluid">
             <div class="col-lg-12" align="center">
                 <div class="content">
-                    <h1>Add concert to the tour band!</h1>
+                    <h1>Add concert to the band tour!</h1>
 
                     <div>&nbsp;</div>
 
