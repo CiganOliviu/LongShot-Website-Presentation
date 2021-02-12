@@ -43,4 +43,4 @@ using predefined forms.
 
 ##### How does the form for adding concerts looks
 
-![Website main page](longshot_documentation/picture_7.png)
+![Website main page](longshot_documentation/picture_8.png)
