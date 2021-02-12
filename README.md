@@ -60,7 +60,7 @@ tours and news. Only after that is listed in the UI.
 ## Frontend
 
 The website is 100% responsive, it's easy to use with a good UX. The wallpaper is changing on every 
-section, so I alternate the video wallpaper with the image wallpaper. Along the app I tried to use 
+section, so I alternated the video wallpaper with the image wallpaper. Along the app I tried to use 
 good contrasts between the text and the background. There are also some basic animations 
 as well realised with SASS, Javascript and Jquery.
 
