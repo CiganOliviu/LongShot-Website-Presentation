@@ -78,8 +78,8 @@ A list with possible and super helpful updates that the system may need:
 * I would like to order tickets directly from this platform, without redirecting me to any other webapp
 where the purchase is realised.
 
-* As an administrator it would be nice to see all the databases with their contents without having to go
-to mysql directly in the admin board. This admin board would be very similar with the one from django, this is 
+* As an administrator it would be nice to see all the databases with their contents directly in the admin board without having to go
+to mysql. This admin board would be very similar with the one from django, this is 
 super helpful when administrating a lot of databases and tables like in cigan_enterprize (...). 
 
 ## Requirements
