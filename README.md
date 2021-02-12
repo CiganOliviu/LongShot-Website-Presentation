@@ -44,3 +44,11 @@ using predefined forms.
 ##### How does the form for adding concerts looks
 
 ![Website main page](longshot_documentation/picture_8.png)
+
+The data added in those forms is later listed in two different sections, news and tours. For the data
+to be listed it has to be stored, so after sending the form the data is stored in two different tables, 
+tours and news.
+
+##### How does the data for news looks in the UI
+
+![Website main page](longshot_documentation/picture_7.png)
