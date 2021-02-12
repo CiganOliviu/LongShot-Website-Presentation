@@ -21,3 +21,13 @@ How the form looks for the user
 How the stored data looks in mysql
 
 ![Website main page](longshot_documentation/picture_3.png)
+
+##### Administration Board with tours and news
+
+The Administration board represents a login system, an admin account will be created for the 
+future administrator by the developer. With that account the administrator will have access on a web 
+page where he can add news about the band or future concerts.
+
+How does the administration system form looks
+
+![Website main page](longshot_documentation/picture_4.png)
